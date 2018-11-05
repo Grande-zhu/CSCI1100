@@ -1,0 +1,155 @@
+Meka's Lounge|42.74|-73.69|407 River Street+Troy, NY 12180|http://www.yelp.com/biz/mekas-lounge-troy|Bars|5|2|4|4|3|4|5
+Tosca Grille|42.73|-73.69|200 Broadway+Troy, NY 12180|http://www.yelp.com/biz/tosca-grille-troy|American (New)|1|3|2|4
+Happy Lunch|42.75|-73.68|827 River St+Troy, NY 12180|http://www.yelp.com/biz/happy-lunch-troy|American (Traditional)|5|2
+Hoosick Street Discount Beverage Center|42.74|-73.67|2200 19th St+Troy, NY 12180|http://www.yelp.com/biz/hoosick-street-discount-beverage-center-troy|Beer, Wine & Spirits|4|5|5|5|5|4
+Uncle Ricky's Bagel Heaven|42.73|-73.69|1809 5th Ave+Troy, NY 12180|http://www.yelp.com/biz/uncle-rickys-bagel-heaven-troy|Bagels|5|3|5|4|3|5|4
+Confectionery House|42.76|-73.62|975 Hoosick Rd+Troy, NY 12180|http://www.yelp.com/biz/confectionery-house-troy|Candy|5|4
+Uncle John Diner|42.77|-73.70|300 Ontario St+Cohoes, NY 12047|http://www.yelp.com/biz/uncle-john-diner-cohoes|Diners|4|5|5
+China Wok|42.73|-73.66|Hudson Valley Plz+Troy, NY 12180|http://www.yelp.com/biz/china-wok-troy|Chinese|2|1
+The Greek House|42.73|-73.69|27 3rd St+Troy, NY 12180|http://www.yelp.com/biz/the-greek-house-troy|Greek|1|5|4|5|4|4|5|5|5|5|5|4
+Smith's Restaurant of Cohoes|42.77|-73.70|171 Remsen St+Cohoes, NY 12047|http://www.yelp.com/biz/smiths-restaurant-of-cohoes-cohoes|American (New)|4
+Black Cat Ale House|42.77|-73.70|25 White St+Cohoes, NY 12047|http://www.yelp.com/biz/black-cat-ale-house-cohoes|American (Traditional)|2|4|4|3|4
+South End Tavern|42.71|-73.70|757 Burden Ave+Troy, NY 12180|http://www.yelp.com/biz/south-end-tavern-troy|American (Traditional)|1|4|3|4|5|1|5|4|1|5|5
+Golden House|42.74|-73.72|143 Troy Schenectady Rd+Watervliet, NY 12189|http://www.yelp.com/biz/golden-house-watervliet|Chinese|4|3
+The Peanut Principle|42.79|-73.74|1158 New Loudon Rd+Cohoes, NY 12047|http://www.yelp.com/biz/the-peanut-principle-cohoes-2|Candy|5|2
+Mac's Drive-In|42.71|-73.71|648 Third Ave+Watervliet, NY 12189|http://www.yelp.com/biz/macs-drive-in-watervliet|Ice Cream & Frozen Yogurt|5|5|4
+The Ruck|42.73|-73.69|104 3rd St+Troy, NY 12180|http://www.yelp.com/biz/the-ruck-troy|Bars|4|5|4|3|3|5|5|4|4|5|5|4|4|3|4|4|5|5|3|5|5|4|5|5|5|5|5
+Spirits of Troy|42.73|-73.69|75 Ferry St+Troy, NY 12180|http://www.yelp.com/biz/spirits-of-troy-troy|Beer, Wine & Spirits|5|5
+Testo's Restaurant & Pizza|42.78|-73.67|853 4th Ave+Troy, NY 12182|http://www.yelp.com/biz/testos-restaurant-and-pizza-troy|Pizza|5|4|4|4|5|5|5|3|4
+Napoli Pizza & Subs|42.74|-73.72|143 Troy Schenectady Rd+Watervliet, NY 12189|http://www.yelp.com/biz/napoli-pizza-and-subs-watervliet|Pizza|4|3|3
+Maselli's Delicatessen|42.74|-73.65|689 Hoosick Rd+Troy, NY 12180|http://www.yelp.com/biz/masellis-delicatessen-troy|Delis|5
+Dinosaur Bar-B-Que|42.73|-73.69|377 River St+Troy, NY 12180|http://www.yelp.com/biz/dinosaur-bar-b-que-troy|BBQ|5|4|4|4|5|5|4|2|5|2|4|4|4|5|3|3|3|4|4|3|5|5|5|5|3|4|5|4|5|5|5|4|5|5|4|3|4|3|2|4|2|2|4|5|3|2|5|2|5|5|5|5|2|4|5|2|4|5|4|5|5
+DeFazio's Pizzeria|42.72|-73.69|266 4th St+Troy, NY 12180|http://www.yelp.com/biz/defazios-pizzeria-troy|Pizza|5|5|5|5|5|5|5|5|5|5|3|5|5|5|5|4|5|5|4|5|5|3|5|5|4|3|5|5|5|4|5|4|5|5|5|4|4
+I Love NY Pizza|42.73|-73.69|125 4th St+Troy, NY 12180|http://www.yelp.com/biz/i-love-ny-pizza-troy|Pizza|4|5|5|3|4|4|4|5|3|5|4|4|4|4|2|5|5|4|3|3|5|5|5|4
+Henry's Market|42.78|-73.70|42 Saratoga Ave+Waterford, NY 12188|http://www.yelp.com/biz/henrys-market-waterford|Grocery|4|5
+Illium Cafe|42.73|-73.69|9 Broadway+Troy, NY 12180|http://www.yelp.com/biz/illium-cafe-troy|Sandwiches|5|4|3|3|5|4|4|4|5|5|3|4|4|4|5|3|4
+The Purple Pub|42.74|-73.70|2 Cohoes Rd+Watervliet, NY 12189|http://www.yelp.com/biz/the-purple-pub-watervliet|Pub|4|5|4|4|4|4|4|3|3
+Troy Market|42.73|-73.69|Uncle Sam Atrium+49 4th St+Troy, NY 12181|http://www.yelp.com/biz/troy-market-troy-2|Farmers Market|5|4|4|5|4|5|5|4|4|5|5|5|5|5|5|4
+Park Pub Restaurant|42.74|-73.67|2701 Lavin Ct+Troy, NY 12180|http://www.yelp.com/biz/park-pub-restaurant-troy|Bars|4|4
+Schuyler Bakery Inc|42.71|-73.71|637 3rd Ave+Watervliet, NY 12189|http://www.yelp.com/biz/schuyler-bakery-inc-watervliet|Bakeries|4|3|5|4|4|4|5|5|5|3|5|4|5
+Two Brothers Italian American Restaurant|42.75|-73.63|814 Hoosick Rd+Troy, NY 12180|http://www.yelp.com/biz/two-brothers-italian-american-restaurant-troy|Italian|1|4|2|5|1|1
+Trader Eds|42.78|-73.68|630  2nd Ave+Troy, NY 12182|http://www.yelp.com/biz/trader-eds-troy|Seafood|3|4
+Red Front Restrnt & Tavern|42.73|-73.69|71 Division St+Troy, NY 12180|http://www.yelp.com/biz/red-front-restrnt-and-tavern-troy|Pub|4|5|4|4|2|4|5|5|5|4|4|4|5|3
+Pizza Hut|42.70|-73.69|62 Vandenburgh Ave+Troy, NY 12180|http://www.yelp.com/biz/pizza-hut-troy|Pizza|2|2|1
+Carol's Place For Pizza & Subs|42.71|-73.66|536 Pawling Ave+Troy, NY 12180|http://www.yelp.com/biz/carols-place-for-pizza-and-subs-troy|Pizza|5|2|5|5|5
+Spiaks Restaurant|42.74|-73.70|2 Archibald St+Watervliet, NY 12189|http://www.yelp.com/biz/spiaks-restaurant-watervliet|Italian|4|5|4|3|3|4|4
+Hoosick Pizza|42.74|-73.67|198 Hoosick St+Troy, NY 12180|http://www.yelp.com/biz/hoosick-pizza-troy|Pizza|3|3
+Pancho's Authentic Mexican Restaurant|42.75|-73.64|740 Hosick Street+Troy, NY 12180|http://www.yelp.com/biz/panchos-authentic-mexican-restaurant-troy|Mexican|4|3|4|2
+Marmora Cafe|42.73|-73.69|203 River St+Troy, NY 12180|http://www.yelp.com/biz/marmora-cafe-troy|Middle Eastern|5|2|5|4|5|5|2|2
+Moxie's Ice Cream|42.71|-73.63|1344 Spring Avenue+Wynantskill, NY 12198|http://www.yelp.com/biz/moxies-ice-cream-wynantskill|Ice Cream & Frozen Yogurt|5|5|3|4|5|5|5|5|4|5|5|4
+Don & Paul's Coffee Shoppe|42.79|-73.68|68 Broad St+Waterford, NY 12188|http://www.yelp.com/biz/don-and-pauls-coffee-shoppe-waterford|Coffee & Tea|3|5
+Gelateria Lisa|42.73|-73.69|7 Hill St+Troy, NY 12180|http://www.yelp.com/biz/gelateria-lisa-troy|Ice Cream & Frozen Yogurt|4|4|4|4|3
+McIntyre's|42.72|-73.71|803 3rd Ave+Watervliet, NY 12189|http://www.yelp.com/biz/mcintyres-watervliet|BBQ|3|4
+Save A Lot|42.74|-73.68|120 Hoosick St+#156+Troy, NY 12180|http://www.yelp.com/biz/save-a-lot-troy|Grocery|3|4
+Plum Blossom Chinese Restaurant|42.74|-73.65|685 Hoosick Road+Troy, NY 12180|http://www.yelp.com/biz/plum-blossom-chinese-restaurant-troy|Chinese|4|4|5|4|5|5|5|2|2|3|3|3|3|1|4|1|2|4|4|4
+Oliver's Naturals|42.72|-73.69|39 Hill St+Troy, NY 12180|http://www.yelp.com/biz/olivers-naturals-troy|Sandwiches|5|5|1|4
+Mustang BBQ|42.77|-73.67|478 5th Ave+Troy, NY 12182|http://www.yelp.com/biz/mustang-bbq-troy|BBQ|2|2|3
+Domino's Pizza|42.74|-73.67|218 Hoosick St+Troy, NY 12180|http://www.yelp.com/biz/dominos-pizza-troy-2|Pizza|1|2|2
+The Judge's Inn|42.73|-73.69|254 Broadway+Troy, NY 12180|http://www.yelp.com/biz/the-judges-inn-troy|Beer, Wine & Spirits|1|2|2|2|4
+DP Dough|42.73|-73.69|71 4th St+Troy, NY 12180|http://www.yelp.com/biz/dp-dough-troy|Pizza|2|2|2|1|1|5|5
+Arnet's|42.73|-73.69|464 Broadway+Troy, NY 12180|http://www.yelp.com/biz/arnets-troy|American (New)|4|2|4
+Bootlegger's On Broadway|42.73|-73.69|200 Broadway+Troy, NY 12180|http://www.yelp.com/biz/bootleggers-on-broadway-troy-2|American (New)|5|4|5|5|2|5|4|3
+Papa John's Pizza|42.74|-73.64|720 Hoosick Road+Troy, NY 12180|http://www.yelp.com/biz/papa-johns-pizza-troy-4|Pizza|4|3
+Sushi King|42.73|-73.69|200 Broadway+Ste 2+Troy, NY 12180|http://www.yelp.com/biz/sushi-king-troy|Japanese|4|1|3|4|1|2|3|4|1|2|2|3
+Dnipro|42.77|-73.70|192 Remsen Street+Cohoes, NY 12047|http://www.yelp.com/biz/dnipro-cohoes|Specialty Food|4|5
+Hannaford Supermarkets|42.79|-73.67|9 126th St+Troy, NY 12182|http://www.yelp.com/biz/hannaford-supermarkets-troy|Grocery|4|3
+Cohoes House of Pizza|42.77|-73.70|127 Remsen St+Cohoes, NY 12047|http://www.yelp.com/biz/cohoes-house-of-pizza-cohoes|Pizza|4|1
+Moe's Southwest Grill|42.73|-73.68|1527 15th St+Troy, NY 12180|http://www.yelp.com/biz/moes-southwest-grill-troy|Tex-Mex|4|2|2|1
+Ryan's Wake|42.74|-73.69|403 River Street+Next To The Green Island Bridge+Troy, NY 12181|http://www.yelp.com/biz/ryans-wake-troy|Bars|3|3|4|3|4|5|4|2|3|4
+Wonder Hostess Thrift Shop|42.74|-73.72|161 Troy Schenectady Rd+Watervliet, NY 12189|http://www.yelp.com/biz/wonder-hostess-thrift-shop-watervliet|Bakeries|4|5
+Indulge Restaurant & Bar|42.74|-73.74|181 Troy Schenectady Rd+Latham, NY 12189|http://www.yelp.com/biz/indulge-restaurant-and-bar-latham|American (New)|3|5
+Deli & Brew|42.70|-73.69|62 Vandenburgh Ave+Troy, NY 12180|http://www.yelp.com/biz/deli-and-brew-troy|Delis|5|4|5|3|5|4|3|5
+Price Chopper|42.77|-73.70|240 Congress St+Cohoes, NY 12047|http://www.yelp.com/biz/price-chopper-cohoes|Grocery|2|1
+Valente's  Restaurant|42.72|-73.71|315 8th St+Watervliet, NY 12189|http://www.yelp.com/biz/valentes-restaurant-watervliet-2|Italian|2|4|2|4|4
+Valenti's Pizzeria & Pub|42.70|-73.66|729 Pawling Ave+Troy, NY 12180|http://www.yelp.com/biz/valentis-pizzeria-and-pub-troy|Pizza|4|4|5|4
+Hometowne Pizzeria|42.77|-73.70|150 Remsen St,+Cohoes, NY 12047|http://www.yelp.com/biz/hometowne-pizzeria-cohoes|Pizza|4|5
+Al-Baraki|42.77|-73.70|133 Remsen St+Cohoes, NY 12047|http://www.yelp.com/biz/al-baraki-cohoes|Middle Eastern|3|3|4|5|3|4|5|4|2|5|4|5
+Ale House|42.75|-73.68|680 River St+Troy, NY 12180|http://www.yelp.com/biz/ale-house-troy|Pubs|5|5|4|5|5|5|5|4|5|2|5|4|5|1|4|5|5|4|5|5|5
+Footsy Magoo's|42.73|-73.69|17 1st St+Troy, NY 12180|http://www.yelp.com/biz/footsy-magoos-troy-2|Bars|4|4|5|5|4|4|4|1|4|5|4
+Roman Pizza|42.74|-73.74|200 Troy Schenectady Rd+Latham, NY 12110|http://www.yelp.com/biz/roman-pizza-latham|Pizza|5|1
+Badass Burrito|42.77|-73.68|443 5th Ave+Troy, NY 12182|http://www.yelp.com/biz/badass-burrito-troy|Mexican|3|1|3|3|4|2|5
+Cafe Caliente|42.78|-73.68|610 2nd Ave+Troy, NY 12182|http://www.yelp.com/biz/cafe-caliente-troy|Cafes|5|5
+Manory's Restaurant|42.73|-73.69|99 Congress St+Troy, NY 12180|http://www.yelp.com/biz/manorys-restaurant-troy|Diners|1|3|3|2|4|4|3|3|2|4
+The Angry Penguin|42.79|-73.68|41 Broad St+Waterford, NY 12188|http://www.yelp.com/biz/the-angry-penguin-waterford|Bars|5|4|3
+Friendly Restaurants|42.73|-73.66|Hoosick+Troy, NY 12180|http://www.yelp.com/biz/friendly-restaurants-troy|American (Traditional)|4
+Karavalli|42.76|-73.75|9B Johnson Rd+Rte 9R+Latham, NY 12110|http://www.yelp.com/biz/karavalli-latham|Indian|5|4|5|2|4|4|5|5|5|4|4|4|5|5|3|4|4|4|5|5|5|3|5|4|5|5|5|5|5|4|5|5|3|5|2|5|4|5|5
+Pizza DaVinci|42.74|-73.67|187 Hoosick Street+Troy, NY 12180|http://www.yelp.com/biz/pizza-davinci-troy|Pizza|4|4|2|3|1|1
+Muza|42.72|-73.68|1300 15th St+Troy, NY 12180|http://www.yelp.com/biz/muza-troy|German|4|4|5|5|3|5|2|4|5|4|5
+De Fazio A Imports|42.72|-73.69|264 4th St+Troy, NY 12180|http://www.yelp.com/biz/de-fazio-a-imports-troy|Grocery|5|4|3
+Bob's Diner|42.73|-73.71|929 19th St+Watervliet, NY 12189|http://www.yelp.com/biz/bobs-diner-watervliet|Diners|4|1|1|3|2|3|1|4|4|4|4|4
+Shalimar Restaurant|42.73|-73.69|405 Fulton St+Troy, NY 12180|http://www.yelp.com/biz/shalimar-restaurant-troy-2|Indian|4|5
+A. Dragon|42.74|-73.66|564 Hoosick St+Troy, NY 12180|http://www.yelp.com/biz/a-dragon-troy|Chinese|5|1|4
+Gus's Hotdogs|42.74|-73.70|212 25th St+Watervliet, NY 12189|http://www.yelp.com/biz/guss-hotdogs-watervliet|Fast Food|5|5|4|3|5|5|2|4|5|5|4|2|4|5|5|5|2|5|5|2|4|5|5|5|5|4
+Minissale's Wine Cellar Cafe|42.72|-73.68|1 14th St+Troy, NY 12180|http://www.yelp.com/biz/minissales-wine-cellar-cafe-troy|Italian|2|2|2
+Nora's Grocery|42.74|-73.73|143 Troy-Schenectady Rd+Watervliet, NY 12189|http://www.yelp.com/biz/noras-grocery-watervliet|Grocery|5|5|5
+Broadway Brew|42.73|-73.69|254 Broadway+Troy, NY 12180|http://www.yelp.com/biz/broadway-brew-troy|Bars|2|2|3|3|2|3|1|2
+On the Farm|42.74|-73.74|273 Troy Schenectady Rd+Latham, NY 12110|http://www.yelp.com/biz/on-the-farm-latham|Ice Cream & Frozen Yogurt|3|4|4
+Bella-Napoli Italian Bakery of Troy Inc|42.75|-73.68|721 River St+Troy, NY 12180|http://www.yelp.com/biz/bella-napoli-italian-bakery-of-troy-inc-troy|Bakeries|4|1|1|5|3|3|3|4|5
+Inferno Pizzeria|42.70|-73.68|79 Campbell Ave+Troy, NY 12180|http://www.yelp.com/biz/inferno-pizzeria-troy|Pizza|4|4|4
+Lo Porto's|42.73|-73.69|85 4th St+Troy, NY 12180|http://www.yelp.com/biz/lo-portos-troy|Italian|5|5|3|4|5|5|5|2|3|5|2
+Shalimar Restaurant|42.73|-73.69|405 Fulton St+Troy, NY 12180|http://www.yelp.com/biz/shalimar-restaurant-troy|Indian|5|4|4|4|1|5|1|2|3|4|3|2|3|4|5|3|1|3|3|3|3
+Francesca's|42.73|-73.69|461 Broadway+Troy, NY 12180|http://www.yelp.com/biz/francescas-troy|Sandwiches|5|5|4|5|4|4|4|5|5|4|5|4
+Recovery Sports Grill|42.74|-73.67|241 Hoosick St+Troy, NY 12180|http://www.yelp.com/biz/recovery-sports-grill-troy|Bars|1|2|3|5|4|4|3|2
+Green Shell|42.74|-73.68|120 Hoosick St # 11+Troy, NY 12180|http://www.yelp.com/biz/green-shell-troy|Chinese|4|5|4
+Gino's Pizzeria|42.73|-73.69|123 4th St+Troy, NY 12180|http://www.yelp.com/biz/ginos-pizzeria-troy|Pizza|2|1|2|1
+The Old Polish Deli|42.71|-73.71|600 3rd Ave+Watervliet, NY 12189|http://www.yelp.com/biz/the-old-polish-deli-watervliet|Delis|5|5|4
+Subway Sandwiches|42.73|-73.70|1613 Broadway+Watervliet, NY 12189|http://www.yelp.com/biz/subway-sandwiches-watervliet|Sandwiches|3|1
+New York Style Pizza|42.76|-73.75|638 Columbia St+Latham, NY 12110|http://www.yelp.com/biz/new-york-style-pizza-latham|Pizza|2|4
+Giuseppe's Pizzeria & Deli|42.71|-73.71|450 3rd Ave+Watervliet, NY 12189|http://www.yelp.com/biz/giuseppes-pizzeria-and-deli-watervliet|Pizza|4|4
+Duncan's Dairy Bar|42.75|-73.63|890 Hoosick Rd+Troy, NY 12180|http://www.yelp.com/biz/duncans-dairy-bar-troy|Ice Cream & Frozen Yogurt|4|5|5
+The River Street Cafe|42.74|-73.69|429 River St+Troy, NY 12180|http://www.yelp.com/biz/the-river-street-cafe-troy|American (New)|1|4|3|4|5
+Hot Dog Charlie's|42.75|-73.70|618 Saratoga St+Cohoes, NY 12047|http://www.yelp.com/biz/hot-dog-charlies-cohoes|Hot Dogs|3|5|4|3
+Popeyes Chicken & Biscuits|42.74|-73.67|220 Hoosick St+Troy, NY 12180|http://www.yelp.com/biz/popeyes-chicken-and-biscuits-troy|Southern|3|2|4|4|4
+Bacchus|42.73|-73.69|33 2nd St+Troy, NY 12180|http://www.yelp.com/biz/bacchus-troy|Pizza|2|4|5|4|3|4|3|3|2|3|1|3|1|4
+Country View Diner|42.75|-73.63|855 Hoosick Rd+Troy, NY 12180|http://www.yelp.com/biz/country-view-diner-troy|Diners|4|3|3|4|4|3|3|5|4|3|1|4|3
+Muddy's|42.72|-73.72|40 Lincoln Ave+Watervliet, NY 12189|http://www.yelp.com/biz/muddys-watervliet|Bars|2|4|3
+Waterford Beverage|42.78|-73.70|35 Saratoga Ave Ste A+Waterford, NY 12188|http://www.yelp.com/biz/waterford-beverage-waterford|Beer, Wine & Spirits|4|4
+Mick's Pizza|42.77|-73.70|18 Sargent St+Cohoes, NY 12047|http://www.yelp.com/biz/micks-pizza-cohoes-2|Pizza|5|1|4|5
+Harmony House Marketplace|42.77|-73.70|184-190 Remsen St+Cohoes, NY 12047|http://www.yelp.com/biz/harmony-house-marketplace-cohoes|Bakeries|5|5
+Chubby's Sub East Side|42.70|-73.65|769 Pawling Ave+Troy, NY 12180|http://www.yelp.com/biz/chubbys-sub-east-side-troy|Sandwiches|3|4|5
+Beirut Restaurant|42.73|-73.69|184 River St+Troy, NY 12180|http://www.yelp.com/biz/beirut-restaurant-troy|Middle Eastern|4|5|4|2|4|4|4|5|5|5|3|5|4|3|4|5|5
+Broad Street Cafe|42.79|-73.68|49 Broad St+Waterford, NY 12188|http://www.yelp.com/biz/broad-street-cafe-waterford|Coffee & Tea|4|4
+Thai Spice Picnic Garden|42.79|-73.67|4 Northern Dr+Troy, NY 12182|http://www.yelp.com/biz/thai-spice-picnic-garden-troy|Thai|2|3|3|4|1|4|2|1|2|1
+Ted's Fish Fry|42.74|-73.65|700 Hoosick Rd+Troy, NY 12180|http://www.yelp.com/biz/teds-fish-fry-troy-2|Seafood|2|3|2|4|5|5|4
+Bruegger's Bagel Bakery|42.73|-73.69|55 Congress St+Troy, NY 12180|http://www.yelp.com/biz/brueggers-bagel-bakery-troy|Bagels|5|5|4|4|3|5|5|2|1
+Dom's Pizza Subs & Wings|42.78|-73.74|1099 New Loudon Rd+Cohoes, NY 12047|http://www.yelp.com/biz/doms-pizza-subs-and-wings-cohoes|Pizza|4
+Jimmy's Pizzeria|42.77|-73.68|475 5th Ave Ste 1+Troy, NY 12182|http://www.yelp.com/biz/jimmys-pizzeria-troy|Pizza|5|5|3
+Diamond Eight Billiards|42.76|-73.75|9 Johnson Rd+Latham, NY 12110|http://www.yelp.com/biz/diamond-eight-billiards-latham|Bars|5|4
+The Placid Baker|42.73|-73.69|250 Broadway+Troy, NY 12180|http://www.yelp.com/biz/the-placid-baker-troy|Bakeries|5|5|5|4|4|4|5|5|5|5|5
+Taco Bell|42.70|-73.69|60 Vandenburgh Ave+Troy, NY 12180|http://www.yelp.com/biz/taco-bell-troy|Fast Food|4|4|4
+Lee Lin Chinese Restaurant|42.71|-73.66|539 Pawling Ave+Troy, NY 12180|http://www.yelp.com/biz/lee-lin-chinese-restaurant-troy|Chinese|4|4|2|4|5|5|1|4|1|2|3
+Pig Pit BBQ|42.76|-73.70|1 Niver St+Cohoes, NY 12047|http://www.yelp.com/biz/pig-pit-bbq-cohoes|American (Traditional)|5|3|4|4|5|5|2|4|3|1|5|4|4|4|4|4|5|3|3|4|5|4|3|5
+Famous Lunch|42.73|-73.69|111 Congress St+Troy, NY 12180|http://www.yelp.com/biz/famous-lunch-troy|Hot Dogs|5|4|5|4|5|4|5|4|1|2|4|5|5|2|5|4|5|5|5|5|4|5|5|4|5|3|4|2|4|3|4|5|5|5
+China 1|42.77|-73.70|103 Saratoga St+Cohoes, NY 12047|http://www.yelp.com/biz/china-1-cohoes|Chinese|3|3
+Rusty's Pizzeria|42.73|-73.70|2311 2nd Ave+Watervliet, NY 12189|http://www.yelp.com/biz/rustys-pizzeria-watervliet|Pizza|2|1|3
+Lansingburgh Cafe|42.77|-73.68|469 5th Ave+Troy, NY 12182|http://www.yelp.com/biz/lansingburgh-cafe-troy|Coffee & Tea|4|4|1
+Verdile's Restaurant|42.76|-73.68|115 2nd Ave+Troy, NY 12180|http://www.yelp.com/biz/verdiles-restaurant-troy|Italian|4|3|1
+MJ's on the Avenue|42.77|-73.68|499 2nd Ave+Troy, NY 12182|http://www.yelp.com/biz/mjs-on-the-avenue-troy|American (Traditional)|2|3|4
+South Troy Diner|42.71|-73.70|579 1st St+Troy, NY 12180|http://www.yelp.com/biz/south-troy-diner-troy|Diners|3|3
+Ali Baba|42.74|-73.68|2243 15th St+Troy, NY 12180|http://www.yelp.com/biz/ali-baba-troy|Middle Eastern|4|5|5|3|3|4|4|3|4|4|5|4|5|5|5|3|4|4|5|5|5|4|4|4|4|3|3
+Matt's Fish Fry and Seafood Mkt|42.76|-73.70|574 Saratoga St+Cohoes, NY 12047|http://www.yelp.com/biz/matts-fish-fry-and-seafood-mkt-cohoes|Seafood|4|4|3
+Gianna's Pizza|42.72|-73.70|1401 Broadway+Watervliet, NY 12189|http://www.yelp.com/biz/giannas-pizza-watervliet|Pizza|5|2
+Afghan Grill|42.74|-73.75|952 Troy Schenectady Rd+Latham, NY 12110|http://www.yelp.com/biz/afghan-grill-latham|Afghan|4|3|5|4|4|5|5
+Verdile's Restaurant|42.77|-73.68|572 Second Ave+Lansingburgh, NY 12182|http://www.yelp.com/biz/verdiles-restaurant-lansingburgh|Italian|3|4|5|4
+Holmes & Watson|42.73|-73.69|450 Broadway+Troy, NY 12180|http://www.yelp.com/biz/holmes-and-watson-troy|American (Traditional)|5|4|4|3|4|1|1
+First Choice Caribbean American|42.73|-73.69|451 Fulton St+Troy, NY 12180|http://www.yelp.com/biz/first-choice-caribbean-american-troy|Caribbean|5|3|3|4|5|4|1
+The Daily Grind|42.73|-73.69|46 3rd St+Troy, NY 12180|http://www.yelp.com/biz/the-daily-grind-troy|Coffee & Tea|2|4|4|3|4|4|4
+Notty Pine Tavern|42.74|-73.68|2301 15th St+Troy, NY 12180|http://www.yelp.com/biz/notty-pine-tavern-troy|Pizza|5|3|4|4
+Java ++ Coffeehouse|42.73|-73.68|1527 15th St+Troy, NY 12180|http://www.yelp.com/biz/java-coffeehouse-troy|Coffee & Tea|4|3|5
+Mr Subb|42.74|-73.66|546 Hoosick St+Troy, NY 12180|http://www.yelp.com/biz/mr-subb-troy-3|Sandwiches|1|4
+Thunder Mountain Curry|42.73|-73.69|50 2nd St+Troy, NY 12180|http://www.yelp.com/biz/thunder-mountain-curry-troy|Indian|3|5
+Troy Community Food Co-Op|42.73|-73.69|77-81 Congress St+Troy, NY 12180|http://www.yelp.com/biz/troy-community-food-co-op-troy|Grocery|5|2|2|4|2|5|5|4|4|3
+Spring Garden|42.77|-73.68|472 2nd Ave+Troy, NY 12182|http://www.yelp.com/biz/spring-garden-troy|Chinese|2|4
+Subway|42.73|-73.69|200 Broadway+Troy, NY 12180|http://www.yelp.com/biz/subway-troy|Sandwiches|4|5
+Snowman|42.77|-73.67|531 5th Ave+Troy, NY 12182|http://www.yelp.com/biz/snowman-troy|Ice Cream & Frozen Yogurt|5|5|5|3|3|5|5|3|5|4|5|5|3|3|5|5|4|5|4|5|4|5|3
+The Rusty Anchor|42.73|-73.70|1 Selke Dr+Hudson Shores Park+Watervliet, NY 12189|http://www.yelp.com/biz/the-rusty-anchor-watervliet|American (Traditional)|4|3|3|3|4|4|4|1|2
+Uncle Sam's Good Natural Products|42.73|-73.69|77 4th St+Troy, NY 12180|http://www.yelp.com/biz/uncle-sams-good-natural-products-troy|Health Markets|5|3|4|4|3|3
+Papa's Corner Restaurant & Pizzeria|42.72|-73.70|1297 Broadway+Watervliet, NY 12189|http://www.yelp.com/biz/papas-corner-restaurant-and-pizzeria-watervliet|Pizza|3|5|3
+Dunkin Donuts of Cohoes|42.77|-73.70|92 Saratoga St+Cohoes, NY 12047|http://www.yelp.com/biz/dunkin-donuts-of-cohoes-cohoes|Bakeries|3
+Hot Spot|42.73|-73.69|122 4th St+Troy, NY 12181|http://www.yelp.com/biz/hot-spot-troy|Latin American|3|3
+Ted's Fish Fry|42.71|-73.71|447 3rd Ave+Watervliet, NY 12189|http://www.yelp.com/biz/teds-fish-fry-watervliet|Seafood|4|4|3|5|3|2|2|5
+Price Chopper|42.73|-73.70|1804 2nd Ave+Watervliet, NY 12189|http://www.yelp.com/biz/price-chopper-watervliet|Grocery|3|1
+Big Apple Pizzeria|42.73|-73.68|108 14th St+Troy, NY 12180|http://www.yelp.com/biz/big-apple-pizzeria-troy|Pizza|1|4|2|5|1|4|4
+MochaBlend Cafe|42.74|-73.64|720 Hoosick Rd+Troy, NY 12180|http://www.yelp.com/biz/mochablend-cafe-troy|Coffee & Tea|4|4|4|4|4|5|5|5|3
+Price Chopper|42.70|-73.72|444 Broadway+Albany, NY 12204|http://www.yelp.com/biz/price-chopper-albany-2|Grocery|3|3|2
+Nighthawk's Kitchen|42.73|-73.69|Riverfront Park+Troy, NY 12180|http://www.yelp.com/biz/nighthawks-kitchen-troy|Burgers|5|5|5|5|5
