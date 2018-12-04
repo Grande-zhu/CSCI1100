@@ -1,0 +1,26 @@
+a q w s z
+b v f g h n
+c x s d f v
+d s w e r f v c x
+e w s d f r
+f d e r t g b v c
+g f r t y h n b v
+h g t y u j m n b
+i u j k l o
+j h y u i k m n
+k j u i o l m
+l p o i k
+m n h j k
+n b g h j m
+o p i k l
+p o l
+q w s a
+r e d f g t
+s a q w e d c x z
+t r f g h y
+u y h j k i
+v c d f g b
+w q a s d e
+x z a s d c
+y t g h j u
+z a s x
