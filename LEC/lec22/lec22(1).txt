@@ -1,0 +1,3 @@
+Countdown ready
+Initialized!
+Launching ... counting...4...3...2...1...Liftoff!
