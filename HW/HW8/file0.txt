@@ -1,0 +1,1 @@
+[{"universe_name": "BoringCS1", "rewards": [], "portals": [], "individuals": [["Scientist", 22, 751, 345, 20, -7], ["Archie", 10, 0, 0, 10, 10], ["Engineer", 25, 281, 744, -24, -16], ["Artist", 20, 78, 157, -19, 10], ["Manager", 18, 170, 137, 10, 17]]}]

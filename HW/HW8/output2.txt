@@ -1,0 +1,68 @@
+Input file => file2.txt
+All universes
+----------------------------------------
+Universe: IntersectionalCS1 (5 rewards and 0 portals)
+Rewards:
+at (80,80) for 10 points: instant set knowledge
+at (33,145) for 40 points: bonus 5 points on one homework
+at (270,330) for 30 points: instant knowledge of list comprehension
+at (512,271) for 50 points: good variable name generation ability
+at (80,190) for 20 points: match of one test case on Submitty
+Portals:
+None
+
+All individuals
+----------------------------------------
+Scientist of IntersectionalCS1 in universe IntersectionalCS1
+    at (40.0,30.0) speed (20.0,30.0) with 0 rewards and 0 points
+Archie of IntersectionalCS1 in universe IntersectionalCS1
+    at (220.0,300.0) speed (-20.0,-15.0) with 0 rewards and 0 points
+Engineer of IntersectionalCS1 in universe IntersectionalCS1
+    at (900.0,800.0) speed (-15.0,-20.0) with 0 rewards and 0 points
+
+Start simulation
+----------------------------------------
+Scientist picked up "instant set knowledge" at simulation step 1
+Scientist of IntersectionalCS1 in universe IntersectionalCS1
+    at (60.0,60.0) speed (16.7,30.0) with 1 rewards and 10 points
+
+Scientist and Archie crashed at simulation step 5 in universe IntersectionalCS1
+Scientist dropped "instant set knowledge", reward returned to IntersectionalCS1 at (80,80)
+Scientist of IntersectionalCS1 in universe IntersectionalCS1
+    at (126.7,180.0) speed (-16.7,-30.0) with 0 rewards and 0 points
+Archie of IntersectionalCS1 in universe IntersectionalCS1
+    at (120.0,225.0) speed (-20.0,-15.0) with 0 rewards and 0 points
+
+Archie picked up "match of one test case on Submitty" at simulation step 6
+Archie of IntersectionalCS1 in universe IntersectionalCS1
+    at (100.0,210.0) speed (-16.7,-15.0) with 1 rewards and 20 points
+
+Scientist picked up "instant set knowledge" at simulation step 8
+Scientist of IntersectionalCS1 in universe IntersectionalCS1
+    at (76.7,90.0) speed (-13.9,-30.0) with 1 rewards and 10 points
+
+Archie picked up "bonus 5 points on one homework" at simulation step 9
+Archie of IntersectionalCS1 in universe IntersectionalCS1
+    at (50.0,165.0) speed (-16.7,-10.0) with 2 rewards and 60 points
+
+Scientist stopped at simulation step 11 at location (35.0,0.0)
+
+Archie stopped at simulation step 12 at location (-0.0,135.0)
+
+Engineer picked up "good variable name generation ability" at simulation step 26
+Engineer of IntersectionalCS1 in universe IntersectionalCS1
+    at (510.0,280.0) speed (-12.5,-20.0) with 1 rewards and 50 points
+
+Engineer stopped at simulation step 40 at location (335.0,0.0)
+
+
+----------------------------------------
+Simulation stopped at step 40
+0 individuals still moving
+Winners:
+Archie of IntersectionalCS1 in universe IntersectionalCS1
+    at (-0.0,135.0) speed (-16.7,-10.0) with 2 rewards and 60 points
+Rewards:
+    match of one test case on Submitty
+    bonus 5 points on one homework
+

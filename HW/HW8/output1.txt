@@ -1,0 +1,58 @@
+Input file => file1.txt
+All universes
+----------------------------------------
+Universe: EasyCS1 (5 rewards and 0 portals)
+Rewards:
+at (80,80) for 10 points: instant set knowledge
+at (586,172) for 40 points: bonus 5 points on one homework
+at (270,330) for 30 points: instant knowledge of list comprehension
+at (600,590) for 50 points: good variable name generation ability
+at (765,990) for 20 points: match of one test case on Submitty
+Portals:
+None
+
+All individuals
+----------------------------------------
+Scientist of EasyCS1 in universe EasyCS1
+    at (40.0,30.0) speed (20.0,20.0) with 0 rewards and 0 points
+Archie of EasyCS1 in universe EasyCS1
+    at (100.0,10.0) speed (30.0,10.0) with 0 rewards and 0 points
+Engineer of EasyCS1 in universe EasyCS1
+    at (900.0,800.0) speed (-15.0,-20.0) with 0 rewards and 0 points
+
+Start simulation
+----------------------------------------
+Scientist picked up "instant set knowledge" at simulation step 2
+Scientist of EasyCS1 in universe EasyCS1
+    at (80.0,70.0) speed (16.7,20.0) with 1 rewards and 10 points
+
+Scientist picked up "instant knowledge of list comprehension" at simulation step 14
+Scientist of EasyCS1 in universe EasyCS1
+    at (280.0,310.0) speed (16.7,13.3) with 2 rewards and 40 points
+
+Archie picked up "bonus 5 points on one homework" at simulation step 16
+Archie of EasyCS1 in universe EasyCS1
+    at (580.0,170.0) speed (25.0,10.0) with 1 rewards and 40 points
+
+Archie stopped at simulation step 33 at location (1005.0,340.0)
+
+Scientist picked up "good variable name generation ability" at simulation step 33
+Scientist of EasyCS1 in universe EasyCS1
+    at (596.7,563.3) speed (8.3,13.3) with 3 rewards and 90 points
+
+Scientist stopped at simulation step 33 at location (596.7,563.3)
+
+Engineer stopped at simulation step 40 at location (300.0,0.0)
+
+
+----------------------------------------
+Simulation stopped at step 40
+0 individuals still moving
+Winners:
+Scientist of EasyCS1 in universe EasyCS1
+    at (596.7,563.3) speed (8.3,13.3) with 3 rewards and 90 points
+Rewards:
+    instant set knowledge
+    instant knowledge of list comprehension
+    good variable name generation ability
+

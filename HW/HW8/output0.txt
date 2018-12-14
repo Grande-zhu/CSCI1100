@@ -1,0 +1,59 @@
+Input file => file0.txt
+All universes
+----------------------------------------
+Universe: BoringCS1 (0 rewards and 0 portals)
+Rewards:
+None
+Portals:
+None
+
+All individuals
+----------------------------------------
+Scientist of BoringCS1 in universe BoringCS1
+    at (751.0,345.0) speed (20.0,-7.0) with 0 rewards and 0 points
+Archie of BoringCS1 in universe BoringCS1
+    at (0.0,0.0) speed (10.0,10.0) with 0 rewards and 0 points
+Engineer of BoringCS1 in universe BoringCS1
+    at (281.0,744.0) speed (-24.0,-16.0) with 0 rewards and 0 points
+Artist of BoringCS1 in universe BoringCS1
+    at (78.0,157.0) speed (-19.0,10.0) with 0 rewards and 0 points
+Manager of BoringCS1 in universe BoringCS1
+    at (170.0,137.0) speed (10.0,17.0) with 0 rewards and 0 points
+
+Start simulation
+----------------------------------------
+Scientist stopped at simulation step 0 at location (751.0,345.0)
+
+Archie stopped at simulation step 0 at location (0.0,0.0)
+
+Artist stopped at simulation step 5 at location (-17.0,207.0)
+
+Engineer stopped at simulation step 12 at location (-7.0,552.0)
+
+Manager stopped at simulation step 51 at location (680.0,1004.0)
+
+
+----------------------------------------
+Simulation stopped at step 51
+0 individuals still moving
+Winners:
+Scientist of BoringCS1 in universe BoringCS1
+    at (751.0,345.0) speed (20.0,-7.0) with 0 rewards and 0 points
+Rewards:
+
+Archie of BoringCS1 in universe BoringCS1
+    at (0.0,0.0) speed (10.0,10.0) with 0 rewards and 0 points
+Rewards:
+
+Engineer of BoringCS1 in universe BoringCS1
+    at (-7.0,552.0) speed (-24.0,-16.0) with 0 rewards and 0 points
+Rewards:
+
+Artist of BoringCS1 in universe BoringCS1
+    at (-17.0,207.0) speed (-19.0,10.0) with 0 rewards and 0 points
+Rewards:
+
+Manager of BoringCS1 in universe BoringCS1
+    at (680.0,1004.0) speed (10.0,17.0) with 0 rewards and 0 points
+Rewards:
+
