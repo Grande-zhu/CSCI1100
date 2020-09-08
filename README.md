@@ -1,0 +1,2 @@
+# CSCI1100
+My CS1 HW LAB LEC solutions
